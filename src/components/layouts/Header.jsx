@@ -15,6 +15,10 @@ const Header = () => {
       <span className="text-3xl text-green-500 font-bold"> X</span>
       <span className="text-3xl text-slate-800 font-bold" >ECOM</span>
       </Link>
+      <nav className="text-md text-gray-800 hover:text-green-500">
+        <Link> Home</Link>
+
+      </nav>
       </div>
     </header>
   )
