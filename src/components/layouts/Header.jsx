@@ -1,3 +1,4 @@
+import { Link } from "react-router-dom"
 
 const Header = () => {
   return (
@@ -10,7 +11,10 @@ const Header = () => {
 
       </div>
       <div className="max-w-360 mx-auto lg:py-6 py-3 lg:px-8 px-5 flex justify-between items-center">
-
+      <Link>
+      <span> X</span>
+      <span>ECOM</span>
+      </Link>
       </div>
     </header>
   )
