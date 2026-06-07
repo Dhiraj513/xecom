@@ -12,8 +12,8 @@ const Header = () => {
       </div>
       <div className="max-w-360 mx-auto lg:py-6 py-3 lg:px-8 px-5 flex justify-between items-center">
       <Link>
-      <span> X</span>
-      <span>ECOM</span>
+      <span className="text-3xl text-green-500 font-bold"> X</span>
+      <span className="text-3xl text-slate-800 font-bold" >ECOM</span>
       </Link>
       </div>
     </header>
