@@ -9,6 +9,9 @@ const Header = () => {
         </div>
 
       </div>
+      <div className="max-w-360 mx-auto py-6 lg:px-8 px-5">
+
+      </div>
     </header>
   )
 }
