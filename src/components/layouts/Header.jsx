@@ -16,7 +16,10 @@ const Header = () => {
       <span className="text-3xl text-slate-800 font-bold" >ECOM</span>
       </Link>
       <nav className="text-md text-gray-800 hover:text-green-500">
-        <Link> Home</Link>
+        <Link to={'/'}> Home</Link>
+        <Link to={'/shop'}>Mens</Link>
+        <Link to={'/'}> Home</Link>
+        <Link to={'/'}> Home</Link>
 
       </nav>
       </div>
