@@ -25,7 +25,7 @@ const Header = () => {
         <MdOutlineShoppingCart className="mt-1" />
         </Link>
 
-        <Link className="bg-green-400 px-5 py-2 text-md rounded-md text-gray-800">Login</Link>
+        <Link className="bg-green-400 px-5 py-2 ms-3 text-md rounded-md text-gray-800">Login</Link>
       </nav>
       </div>
     </header>
