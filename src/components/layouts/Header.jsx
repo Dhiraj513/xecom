@@ -20,7 +20,7 @@ const Header = () => {
         <Link className='hover:text-green-500' to={'/shop'}>Mens</Link>
         <Link className='hover:text-green-500' to={'/'}> Home</Link>
         <Link className='hover:text-green-500' to={'/'}> Home</Link>
-        <Link><MdOutlineShoppingCart /></Link>
+        <Link><MdOutlineShoppingCart className="mt-1" /></Link>
       </nav>
       </div>
     </header>
