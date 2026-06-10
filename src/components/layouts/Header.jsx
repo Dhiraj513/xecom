@@ -18,8 +18,8 @@ const Header = () => {
       <nav className="text-md text-gray-800 space-x-5 flex items-center">
         <Link className='hover:text-green-500' to={'/'}> Home</Link>
         <Link className='hover:text-green-500' to={'/shop'}>Mens</Link>
-        <Link className='hover:text-green-500' to={'/'}> Home</Link>
-        <Link className='hover:text-green-500' to={'/'}> Home</Link>
+        <Link className='hover:text-green-500' to={'/shop'}> Women</Link>
+        <Link className='hover:text-green-500' to={'/shop'}> Kids</Link>
         <Link className="relative">
         <span className="bg-red-400 text-sm rounded-[50%] flex justify-center text-white absolute left-2 w-6 h-6 -top-5.5"> 0</span>
         <MdOutlineShoppingCart className="mt-1" />
