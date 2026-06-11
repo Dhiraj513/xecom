@@ -6,7 +6,7 @@ const Hero = () => {
             <div className="grid grid-cols-2">
         {/*left box */}
         <div className="space-y-7">
-        <h2 className="lg:text-5xl text-3xl text-gray-800 font-bold leading-14">Discover Your Style With Our Collection</h2>
+        <h2 className="lg:text-5xl text-3xl text-gray-700 font-bold leading-14">Discover Your Style With Our Collection</h2>
         </div>
             </div>
 
