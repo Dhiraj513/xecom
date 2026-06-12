@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom"
-
+import Banner from "../assets/banner.jpg"
 const Hero = () => {
   return (
     <div className="bg-slate-50">
@@ -11,10 +11,13 @@ const Hero = () => {
         <p className="text-lg text-gray-800">Explore our curated selection of premium products designed to elecate your lifestyle.Quality meets style in every piece.</p>
          <Link className="bg-green-400 px-8 py-3  text-md rounded-md text-gray-800">Shop Now</Link>
         </div>
-            </div>
-
+            
+        {/*right box */       }
+        <div>
+        <img src={Banner} alt="" />
         </div>
-
+        </div>
+        </div>
     </div>
   )
 }
