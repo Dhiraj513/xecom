@@ -14,7 +14,7 @@ const Hero = () => {
             
         {/*right box */       }
         <div>
-        <img src={Banner} alt="" />
+        <img className="rounded-2xl object-cover h-75 sm:h-125 relative w-full" src={Banner} alt="" />
         </div>
         </div>
         </div>
