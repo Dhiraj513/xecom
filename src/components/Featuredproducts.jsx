@@ -1,5 +1,5 @@
 import ProductImage1 from "../assets/product1.png"
-
+import ProductImage2 from "../assets/product2.png"
 
 const Featuredproducts = () => {
   return (
@@ -10,7 +10,7 @@ const Featuredproducts = () => {
         </h2>
         <div className="grid grid-cols-1 sm:grid-cols-3 lg:grid-cols-5">
             <div className="bg-slate-100 overflow-hidden">
-                <img src="" alt="" />
+                <img src="{ProductImage2 }" alt="" />
             </div>
 
         </div>
