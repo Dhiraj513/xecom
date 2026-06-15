@@ -1,3 +1,4 @@
+import ProductImage1 from "../assets/product1.png"
 
 
 const Featuredproducts = () => {
