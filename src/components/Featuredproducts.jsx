@@ -7,6 +7,9 @@ const Featuredproducts = () => {
             Featured
             <span className="text-gray-700"> Products</span>
         </h2>
+        <div className="grid grid-cols-1 sm:grid-cols-3 lg:grid-cols-5">
+
+        </div>
     </div>
   )
 }
