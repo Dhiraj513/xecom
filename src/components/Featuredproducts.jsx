@@ -10,7 +10,9 @@ const Featuredproducts = () => {
         </h2>
         <div className="grid grid-cols-1 sm:grid-cols-3 lg:grid-cols-5">
             <div className="bg-slate-100 overflow-hidden rounded-lg">
-                <img src={ProductImage1} alt="" />
+                <img
+                 className="object-cover h-95 duration-500 ease-in-out transition-transform hover:scale-110" 
+                 src={ProductImage1} alt="" />
             </div>
 
         </div>
