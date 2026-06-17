@@ -16,6 +16,10 @@ const Featuredproducts = () => {
                  src={ProductImage1} alt="" />
             </div>
             <h3 className="text-lg text-gray-800 font-semibold">Dummy Product</h3>
+            <p className="text-base text-gray-700">NRS 1000
+                <
+            </p>
+
              <div className="bg-slate-100 overflow-hidden rounded-lg">
                 <img
                  className="object-cover h-95 duration-500 ease-in-out transition-transform hover:scale-110" 
