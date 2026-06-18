@@ -10,13 +10,13 @@ const Featuredproducts = () => {
         </h2>
         <div className="grid grid-cols-1 sm:grid-cols-3 lg:grid-cols-5">
             <div  >
-            <div className="bg-slate-100 overflow-hidden rounded-lg ">
+            <div className="bg-slate-100 overflow-hidden rounded-lg mb-3">
                 <img
                  className="object-cover h-95 duration-500 ease-in-out transition-transform hover:scale-110" 
                  src={ProductImage1} alt="" />
             </div>
             <h3 className="text-lg text-gray-800 font-semibold">Dummy Product</h3>
-            <p className="text-base text-gray-700">NRS 1000 {" "}
+            <p className="text-base text-gray-700 font-semibold">NRS 1000 {" "}
                 <span className="line-through text-gray-700">   NRS 1200</span>
             </p>
 
