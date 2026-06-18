@@ -2,6 +2,12 @@ import ProductImage1 from "../assets/product1.png";
 import ProductImage2 from "../assets/product2.jpg"
 
 const Featuredproducts = () => {
+
+    const products = [
+        {
+            
+        }
+    ]
   return (
     <div className="max-w-360 mx-auto lg:px-8 px-5 py-10">
         <h2 className="text-green-400 text-4xl font-medium pb-10">
