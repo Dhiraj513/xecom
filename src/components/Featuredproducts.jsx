@@ -6,7 +6,7 @@ const Featuredproducts = () => {
     const products = [
         {
             id: 1,
-            name: "Dummy Product",
+            name: "Dummy Product 1",
             price: 1000,
             crossPrice: 1100
         },
