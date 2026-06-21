@@ -20,7 +20,7 @@ const Featuredproducts = () => {
             id: 3,
             name: "Dummy Product 3",
             price: 1000,
-            crossPrice: 1100
+            crossPrice: 1050
         },
          {
             id: 4,
