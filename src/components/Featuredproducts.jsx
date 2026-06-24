@@ -43,7 +43,11 @@ const Featuredproducts = () => {
         </h2>
         <div className="grid grid-cols-1 sm:grid-cols-3 lg:grid-cols-5">
             {
-                products && products.map
+                products && products.map(product => {
+                    return (
+
+                    )
+                })
             }
             <div  >
             <div className="bg-slate-100 overflow-hidden rounded-lg mb-3">
