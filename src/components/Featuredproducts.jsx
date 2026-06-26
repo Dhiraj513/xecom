@@ -45,7 +45,7 @@ const Featuredproducts = () => {
             {
                 products && products.map(product => {
                     return (
-                        <div>
+                <div KEY>
             <div className="bg-slate-100 overflow-hidden rounded-lg mb-3">
                 <img
                  className="object-cover h-95 duration-500 ease-in-out transition-transform hover:scale-110" 
