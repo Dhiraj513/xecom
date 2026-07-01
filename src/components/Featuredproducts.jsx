@@ -54,7 +54,7 @@ const Featuredproducts = () => {
             <h3 className="text-lg text-gray-800 font-semibold">{product.name}</h3>
             <p className="text-base text-gray-700 font-semibold">
                 ${product.price} {" "}
-                <span className="line-through text-gray-700"> NRS 1200</span>
+                <span className="line-through text-gray-700"> </span>
             </p>
             </div>
                     )
