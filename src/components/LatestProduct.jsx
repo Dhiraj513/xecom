@@ -1,5 +1,4 @@
 
-
 const LatestProduct = () => {
   return (
     
