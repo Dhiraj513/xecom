@@ -1,7 +1,7 @@
 
 const LatestProduct = () => {
   return (
-    
+    <div></div>
   )
 }
 
