@@ -1,5 +1,5 @@
 import ProductImage1 from "../assets/product1.png";
-import ProductImage2 from "../assets/product2.jpg"
+import ProductImage2 from "../assets/product2.jpg";
 
 const Featuredproducts = () => {
 
