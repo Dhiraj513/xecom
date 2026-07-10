@@ -6,8 +6,8 @@ const Hero = () => {
         <div className="max-w-360 mx-auto lg:px-8 px-5">
             <div className="grid grid-cols-1 sm:grid-cols-2 items-center py-5 sm:py-20">
         {/*left box */}
-        <div className="space-y-7 py-10 pr-20">
-        <h2 className="lg:text-5xl text-3xl text-gray-700 font-bold leading-14">Discover Your Style With Our Collection</h2>
+        <div className="space-y-7 py-10 pr-0 sm:pr-20">
+        <h2 className="lg:text-5xl text-3xl text-gray-700 font-bold sm:leading-14">Discover Your Style With Our Collection</h2>
         <p className="text-lg text-gray-800">Explore our curated selection of premium products designed to elecate your lifestyle.Quality meets style in every piece.</p>
          <Link className="bg-green-400 px-8 py-3  text-md rounded-md text-gray-800">Shop Now</Link>
         </div>
