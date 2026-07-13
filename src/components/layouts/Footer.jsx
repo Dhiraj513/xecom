@@ -1,4 +1,4 @@
-
+import { Link } from "react-router-dom"
 const Footer = () => {
   return (
     <div className="max-w-360 mx-auto lg:px-8 px-5">
