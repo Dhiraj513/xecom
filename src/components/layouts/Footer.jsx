@@ -6,6 +6,7 @@ const Footer = () => {
       <div> 
         <Link>
         <span className="text-3xl text-white font bold" >X</span>
+        <span className="text-3xl text-slate-800 font-bold">ECOM</span>
           </Link>
       </div>
       <div>made with intention</div>
