@@ -8,7 +8,7 @@ const Footer = () => {
         <span className="text-3xl text-white font bold" >X</span>
         <span className="text-3xl text-slate-800 font-bold">ECOM</span>
           </Link>
-          <p className="text-gray-800 mt">Your destination for everyday fashion essentials</p>
+          <p className="text-gray-800 mt-2">Your destination for everyday fashion essentials</p>
       </div>
       <div>made with intention</div>
       </div>
