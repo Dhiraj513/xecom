@@ -11,7 +11,7 @@ const Footer = () => {
           <p className="text-gray-800 mt-2">Your destination for everyday fashion essentials</p>
       </div>
       <div>
-        <h2></h2>made with intention</div>
+        <h2></h2></div>
       </div>
     </div>
   )
