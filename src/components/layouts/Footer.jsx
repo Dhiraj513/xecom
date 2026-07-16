@@ -10,7 +10,8 @@ const Footer = () => {
           </Link>
           <p className="text-gray-800 mt-2">Your destination for everyday fashion essentials</p>
       </div>
-      <div>made with intention</div>
+      <div>
+        <h2></h2>made with intention</div>
       </div>
     </div>
   )
