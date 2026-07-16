@@ -11,7 +11,8 @@ const Footer = () => {
           <p className="text-gray-800 mt-2">Your destination for everyday fashion essentials</p>
       </div>
       <div>
-        <h2></h2></div>
+        <h2></h2>
+        </div>
       </div>
     </div>
   )
