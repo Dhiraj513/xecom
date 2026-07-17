@@ -15,7 +15,12 @@ const Footer = () => {
         <Link className="hover:underline">Login</Link>
         <Link className="hover:underline">Register</Link>
         </div>
-      </div>
+        <div className="flex flex-col">
+        <h2 className="text-xl text-gray-800 font-bold mb-3"> Quick Links</h2>
+        <Link className="hover:underline">Login</Link>
+        <Link className="hover:underline">Register</Link>
+        </div>
+    </div>
     </div>
   )
 }
