@@ -11,7 +11,7 @@ const Footer = () => {
           <p className="text-gray-800 mt-2">Your destination for everyday fashion essentials</p>
       </div>
       <div>
-        <h2> Quick Links</h2>
+        <h2 className="text-xl text-gray-800"> Quick Links</h2>
         </div>
       </div>
     </div>
