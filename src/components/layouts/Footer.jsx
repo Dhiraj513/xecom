@@ -10,7 +10,7 @@ const Footer = () => {
           </Link>
           <p className="text-gray-800 mt-2">Your destination for everyday fashion essentials</p>
       </div>
-      <div>
+      <div className="flex flex-col">
         <h2 className="text-xl text-gray-800"> Quick Links</h2>
         </div>
       </div>
