@@ -13,7 +13,7 @@ const Footer = () => {
       <div className="flex flex-col">
         <h2 className="text-xl text-gray-800"> Quick Links</h2>
         <Link>Login</Link>
-        <
+        <Link>Register</Link>
         </div>
       </div>
     </div>
