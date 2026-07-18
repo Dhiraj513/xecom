@@ -16,9 +16,9 @@ const Footer = () => {
         <Link className="hover:underline">Register</Link>
         </div>
         <div className="flex flex-col">
-        <h2 className="text-xl text-gray-800 font-bold mb-3"> Quick Links</h2>
-        <Link className="hover:underline">Login</Link>
-        <Link className="hover:underline">Register</Link>
+        <h2 className="text-xl text-gray-800 font-bold mb-3"> Contact</h2>
+        <Link className="hover:underline">9843703250</Link>
+        <Link className="hover:underline">dhiraj.kus.9@gmail.com</Link>
         </div>
     </div>
     </div>
