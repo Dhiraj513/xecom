@@ -2,7 +2,7 @@ import { Link } from "react-router-dom"
 const Footer = () => {
   return (
     <div className="max-w-360 mx-auto lg:px-8 px-5">
-      <div className="grid grid-cols-1 lg:grid-cols-3 bg-green-300 rounded-lg p-10">
+      <div className="grid grid-cols-1 gap-y-5 lg:grid-cols-3 bg-green-300 rounded-lg p-10">
       <div className="lg:pr-20"> 
         <Link>
         <span className="text-3xl text-white font bold" >X</span>
@@ -22,6 +22,7 @@ const Footer = () => {
         <p>Imadol Lalitpur</p>
         </div>
     </div>
+    <div className="text-sm text-center py-3">&copy; All Rights Reserved {new Date().getFullYear()}</div>
     </div>
   )
 }
