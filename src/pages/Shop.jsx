@@ -6,7 +6,6 @@ const Shop = () => {
     <>
     <Header/>
     <Footer/>
-<header/>
     </>
   )
 }
