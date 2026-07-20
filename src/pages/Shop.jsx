@@ -26,7 +26,7 @@ const Shop = () => {
       <div className="grid grid-cols-12">
 
     {/*sidebar */}
-    <div className="col-span-3">
+    <div className="col-span-3 border">
 
     </div>
 
