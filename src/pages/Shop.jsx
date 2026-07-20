@@ -31,7 +31,7 @@ const Shop = () => {
     </div>
 
     {/* producs */}
-    <div className="col-span-9">
+    <div className="col-span-9 border">
 
     </div>
       </div>
