@@ -27,12 +27,12 @@ const Shop = () => {
 
     {/*sidebar */}
     <div className="col-span-3 border">
-
+khaer
     </div>
 
     {/* producs */}
     <div className="col-span-9 border">
-
+kuagd
     </div>
       </div>
     </div>
