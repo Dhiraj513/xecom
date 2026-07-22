@@ -23,11 +23,14 @@ const Shop = () => {
 
     {/*main Container */}
     <div className="max-w-360 lg:px-8 px-5 mx-auto mt-5">
-      <div className="grid grid-cols-12">
+      <div className="grid grid-cols-12 gap-5">
 
     {/*sidebar */}
     <div className="col-span-3 border">
-khaer
+<div className="flex justify-between items-center">
+  <span className="text-2xl font-bold">Filters</span>
+  <span className="">Clear</span>
+</div>
     </div>
 
     {/* producs */}
