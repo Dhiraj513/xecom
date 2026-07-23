@@ -31,7 +31,7 @@ const Shop = () => {
   <span className="text-2xl font-bold">Filters</span>
   <span className="">Clear</span>
 </div>
-<div>Category</div>
+<div className="font-bold text-lg">Category</div>
     </div>
 
     {/* producs */}
