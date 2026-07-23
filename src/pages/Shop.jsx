@@ -33,7 +33,7 @@ const Shop = () => {
 </div>
 <div className="font-bold text-lg">Category</div>
 <div className="flex">
-<input type="checkbox" className="w-4 h-4 border"
+<input type="checkbox" className="w-4 h-4 border border-gray-400" />
 </div>
     </div>
 
