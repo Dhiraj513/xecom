@@ -27,7 +27,7 @@ const Shop = () => {
 
     {/*sidebar */}
     <div className="col-span-3 border">
-<div className="flex justify-between items-center">
+<div className="flex justify-between items-center mb-3">
   <span className="text-2xl font-bold">Filters</span>
   <span className="">Clear</span>
 </div>
