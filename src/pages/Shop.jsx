@@ -32,7 +32,7 @@ const Shop = () => {
   <span className="">Clear</span>
 </div>
 <div className="font-bold text-lg">Category</div>
-<div className="">
+<div className="flex">
 
 </div>
     </div>
