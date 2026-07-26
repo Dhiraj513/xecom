@@ -34,6 +34,7 @@ const Shop = () => {
 <div className="font-bold text-lg">Category</div>
 <div className="flex items-center">
 <input type="checkbox" className="w-4 h-4 border border-gray-400" />
+<span></span>
 </div>
     </div>
     {/* producs */}
