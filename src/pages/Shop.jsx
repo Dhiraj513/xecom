@@ -26,7 +26,7 @@ const Shop = () => {
       <div className="grid grid-cols-12 gap-5">
 
     {/*sidebar */}
-    <div className="col-span-3 border">
+    <div className="col-span-3 ">
 <div className="flex justify-between items-center mb-3">
   <span className="text-2xl font-bold">Filters</span>
   <span className="">Clear</span>
