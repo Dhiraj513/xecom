@@ -32,7 +32,7 @@ const Shop = () => {
   <span className="">Clear</span>
 </div>
 <div className="font-bold text-lg">Category</div>
-<div className="flex items-center">
+<div className="flex items-center space-x-2">
 <input type="checkbox" className="w-4 h-4 border border-gray-400" />
 <span> Topwear</span>
 </div>
