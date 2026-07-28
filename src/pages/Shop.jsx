@@ -26,7 +26,7 @@ const Shop = () => {
       <div className="grid grid-cols-12 gap-5">
 
     {/*sidebar */}
-    <div className="col-span-3 pb-5 ">
+    <div className="col-span-2 pb-5 ">
 <div className="flex justify-between items-center mb-3 border-b border-gray-200 pb-3">
   <span className="text-2xl font-bold">Filters</span>
   <span className="">Clear</span>
@@ -48,7 +48,7 @@ const Shop = () => {
 
     </div>
     {/* producs */}
-    <div className="col-span-9 border">
+    <div className="col-span-10 border">
 kuagd
     </div>
       </div>
