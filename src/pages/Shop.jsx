@@ -45,7 +45,6 @@ const Shop = () => {
 <input type="checkbox" className="w-4 h-4 border border-gray-400" />
 <span> Topwear</span>
 </div>
-
     </div>
     {/* producs */}
     <div className="col-span-10 border">
