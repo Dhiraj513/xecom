@@ -48,7 +48,7 @@ const Shop = () => {
     </div>
     {/* producs */}
     <div className="col-span-10 border">
-kuagdjkahwg
+kuagdjkah
     </div>
       </div>
     </div>
