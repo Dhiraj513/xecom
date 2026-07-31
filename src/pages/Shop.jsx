@@ -49,7 +49,7 @@ const Shop = () => {
 </div>
 
 {/* Brands Filter */}
-<div className="font-bold pt-2 mb-2">Brands</div>
+<div className="font-bold pt-4 mb-2">Brands</div>
 <div className="flex items-center space-x-2 mb-1">
 <input type="checkbox" className="w-4 h-4 border border-gray-400" />
 <span> Topwear</span>
