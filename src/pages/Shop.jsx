@@ -63,6 +63,22 @@ const Shop = () => {
 <input type="checkbox" className="w-4 h-4 border border-gray-400" />
 <span> H&M</span>
 </div>
+
+{/* Price Range */}
+<div className="font-bold pt-4 mb-2">Price Range</div>
+<div className="flex items-center space-x-2 mb-1">
+<input type="radio" className="w-4 h-4 border border-gray-400" />
+<span> under $50</span>
+</div>
+
+<div className="flex items-center space-x-2 mb-1">
+<input type="radio" className="w-4 h-4 border border-gray-400" />
+<span> $50-$100</span>
+</div>
+<div className="flex items-center space-x-2 mb-1">
+<input type="radio" className="w-4 h-4 border border-gray-400" />
+<span> ABove $100</span>
+</div>
     </div>
     {/* producs */}
     <div className="col-span-10 border">
