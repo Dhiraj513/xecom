@@ -5,7 +5,7 @@ import ProductImage1 from "../assets/product1.png";
 import ProductImage2 from "../assets/product2.jpg";
 
 const Shop = () => {
-   const products = [
+  const products = [
             {
                 id: 1,
                 name: "Dummy Product 1",
