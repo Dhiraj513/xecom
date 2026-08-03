@@ -1,6 +1,8 @@
 import { Link } from "react-router-dom"
 import Layout from "../components/layouts/Layout"
 import { MdOutlineKeyboardArrowRight } from "react-icons/md";
+import ProductImage1 from "../assets/product1.png";
+import ProductImage2 from "../assets/product2.jpg";
 
 const Shop = () => {
    const products = [
