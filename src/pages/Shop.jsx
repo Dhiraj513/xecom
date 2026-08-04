@@ -137,10 +137,10 @@ const Shop = () => {
                     <span className="line-through text-gray-700">${product.crossPrice} </span>
                 </p>
                 </div>
-                        )
+                       )
                     })
                 }
-                
+      
             </div>
     </div>
       </div>
