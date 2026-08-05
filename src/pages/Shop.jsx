@@ -144,7 +144,6 @@ const Shop = () => {
     </div>
       </div>
     </div>
-
     </Layout>
     </>
   )
