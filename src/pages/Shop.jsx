@@ -42,14 +42,14 @@ const Shop = () => {
                 crossPrice: 2000
             },
              {
-                id: 4,
+                id: 6,
                 name: "Dummy Product 4",
                 price: 1500,
                 image: ProductImage2,
                 crossPrice: 1700
             },
              {
-                id: 5,
+                id: 7,
                 name: "Dummy Product 5",
                 price: 1800,
                 image: ProductImage1,
