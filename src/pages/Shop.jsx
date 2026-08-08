@@ -141,7 +141,7 @@ const Shop = () => {
 </div>
     </div>
     {/* producs */}
-    <div className="col-span-10">
+    <div className="col-span-12 lg:col-span-10">
     <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-5 mb-10">
                 {
                     products && products.map(product => {
