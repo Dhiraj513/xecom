@@ -54,6 +54,13 @@ const Shop = () => {
                 price: 1800,
                 image: ProductImage1,
                 crossPrice: 2000
+            },
+            {
+                id: 8,
+                name: "Dummy Product 5",
+                price: 1800,
+                image: ProductImage1,
+                crossPrice: 2000
             }
         ]
   return (
