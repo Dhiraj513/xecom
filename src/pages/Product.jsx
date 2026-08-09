@@ -1,10 +1,11 @@
+import Layout from "../components/layouts/Layout"
 
 
 const product = () => {
   return (
-   <Layoout>
-
-   </Layoout>
+   <Layout>
+    
+   </Layout>
   )
 }
 
