@@ -18,7 +18,10 @@ const product = () => {
      <div className="max-w-360 lg:px-8 px-5 mx-auto py-5">
       <div className="grid grid-cols-12 gap-5 ">
         <div className="lg:col-span-6 col-span-12">
-          
+
+        </div>
+        <div className="lg:col-span-6 col-span-12">
+
         </div>
        
       </div>
