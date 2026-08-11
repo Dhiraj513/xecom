@@ -46,7 +46,7 @@ const Product = () => {
           {
             gallery && gallery.map(item => {
               return (
-                <img src="" alt="" />
+                <img src=" " alt="" />
               )
             })
           }
