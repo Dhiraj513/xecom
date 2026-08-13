@@ -4,6 +4,7 @@ import { MdOutlineKeyboardArrowRight } from "react-icons/md";
 import ProductImg1 from "../assets/product1.png";
 import ProductImg2 from "../assets/product2.jpg";
 import ProductImg3 from "../assets/product3.png";
+import { useEffect, useState } from "react";
 
 
 const Product = () => {
@@ -22,6 +23,14 @@ const Product = () => {
         url:ProductImg3
       }
     ]
+
+    const [mainImage, setMainImage] = useState(null)
+
+    useEffect(() => {
+      if (gallery) {
+        setMainImage(gallery[0])
+    }
+    },[])
   return (
    <Layout>
      {/* breadcrum */}
@@ -35,7 +44,7 @@ const Product = () => {
 
      <div className="max-w-360 lg:px-8 px-5 mx-auto py-5">
       <div className="grid grid-cols-12 gap-5 ">
-        <div className="lg:col-span-6 col-span-12 border">
+        <div className="lg:col-span-5 col-span-12 border">
       {/*Gallery */}
       <div className="grid grid-cols-12">
         <div className="col-span-10">
@@ -54,7 +63,7 @@ const Product = () => {
 
       </div>
         </div>
-        <div className="lg:col-span-6 col-span-12 border">
+        <div className="lg:col-span-7 col-span-12 border">
 jghf
         </div>
        
