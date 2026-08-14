@@ -23,7 +23,6 @@ const Product = () => {
         url:ProductImg3
       }
     ]
-
     const [mainImage, setMainImage] = useState(null)
 
     useEffect(() => {
