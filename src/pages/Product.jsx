@@ -48,7 +48,8 @@ const Product = () => {
       <div className="grid grid-cols-12">
         <div className="col-span-10">
           {/*Main Images */}
-        </div>
+          <img> <img>
+                 </div>
         <div className="col-span-2">
           {/* Small Images */}
           {
