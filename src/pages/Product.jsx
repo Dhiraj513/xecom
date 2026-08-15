@@ -46,7 +46,7 @@ const Product = () => {
         <div className="lg:col-span-5 col-span-12 border">
       {/*Gallery */}
       <div className="grid grid-cols-12">
-        <div className="col-span-10">
+        <div className="col-span-10 bg-slate-50">
           {/*Main Images */}
           <img src={mainImage?.url} className="w-full" alt="" />
                  </div>
