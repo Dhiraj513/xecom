@@ -25,7 +25,9 @@ const Product = () => {
     ]
     const [mainImage, setMainImage] = useState(null)
 
-    const handleGallery = (item)
+    const handleGallery = (item) => {
+      
+    }
 
     useEffect(() => {
       if (gallery) {
