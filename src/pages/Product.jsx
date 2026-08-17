@@ -26,7 +26,7 @@ const Product = () => {
     const [mainImage, setMainImage] = useState(null)
 
     const handleGallery = (item) => {
-      
+      setMainImage(item)
     }
 
     useEffect(() => {
