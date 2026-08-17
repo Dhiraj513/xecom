@@ -43,7 +43,7 @@ const Product = () => {
 
      <div className="max-w-360 lg:px-8 px-5 mx-auto py-5">
       <div className="grid grid-cols-12 gap-5 ">
-        <div className="lg:col-span-5 col-span-12 border">
+        <div className="lg:col-span-5 col-span-12 ">
       {/*Gallery */}
       <div className="grid grid-cols-12">
         <div className="col-span-10 bg-slate-50">
