@@ -59,7 +59,9 @@ const Product = () => {
           {
             gallery && gallery.map(item => {
               return (
-                <img key={item.id} onClick={handleGallery(item)} src={item.url} className="w-full" alt=""  />
+                <Link key={item.id}>
+                <img  onClick={handleGallery(item)} src={item.url} className="w-full" alt=""  />
+              </Link>
               )
             })
           }
