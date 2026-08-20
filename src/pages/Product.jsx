@@ -52,7 +52,7 @@ const Product = () => {
       <div className="grid grid-cols-12 gap-3">
         <div className="col-span-10 bg-slate-50">
           {/*Main Images */}
-          <img src={mainImage?.url} className="w-full" alt="" />
+          <img src={mainImage?.url} className="w-full rounded-md" alt="" />
                  </div>
         <div className="col-span-2">
           {/* Small Images */}
