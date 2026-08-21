@@ -71,7 +71,7 @@ const Product = () => {
         </div>
         <div className="lg:col-span-7 col-span-12 border">
           {/*Product info */}
-          <div className="font-bold">Good product for men </div>
+          <div className="font-bold text-2xl">Good product for men </div>
         </div>
        
       </div>
