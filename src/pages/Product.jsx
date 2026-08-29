@@ -66,7 +66,7 @@ const Product = () => {
             })
           }
         </div>
-     <p></p>
+     <p> human</p>
       </div>
         </div>
         <div className="lg:col-span-7 col-span-12 ">
