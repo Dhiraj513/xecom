@@ -74,9 +74,9 @@ const Product = () => {
           <div className="font-bold text-2xl text-gray-800">Good product for men </div>
 
           {/*price */}
-          <div>
+          <div className="font-bold text-lg">
             $100
-            <span>$150</span>
+            <span className="text-gray-500 font-normal">$150</span>
           </div>
         </div>
        
