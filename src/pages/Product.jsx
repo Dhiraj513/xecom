@@ -75,7 +75,7 @@ const Product = () => {
 
           {/*price */}
           <div className="font-bold text-lg">
-            $100
+            $100 {" "}
             <span className="text-gray-500 font-normal">$150</span>
           </div>
         </div>
