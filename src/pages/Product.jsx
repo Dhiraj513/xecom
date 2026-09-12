@@ -78,6 +78,11 @@ const Product = () => {
             $100 {" "}
             <span className="text-gray-500 font-normal">$150</span>
           </div>
+
+          {/*Description */}
+          <div className="">
+
+          </div>
         </div>
        
       </div>
