@@ -81,6 +81,7 @@ const Product = () => {
 
           {/*Description */}
           <div className="text-base text-gray-500 ">
+            If the goal of presenting your product is to sell it, then stating the price is undoubtedly a necessary element. After all, once customers have their hearts set on your product, they will be eager to know how much it will cost them.
 
           </div>
         </div>
