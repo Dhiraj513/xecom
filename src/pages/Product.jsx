@@ -80,7 +80,7 @@ const Product = () => {
           </div>
 
           {/*Description */}
-          <div className="">
+          <div className="text-base text-gray-500 ">
 
           </div>
         </div>
