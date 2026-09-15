@@ -92,6 +92,7 @@ const Product = () => {
              <div>S</div>
              <div>M</div>
              <div>L</div>
+             <div>XL</div>
         </div>
        
       </div>
