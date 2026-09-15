@@ -89,7 +89,7 @@ const Product = () => {
           <div className="font-bold text-lg mt-3">Select size</div>
 
           <div className="flex gap-x-2"></div>
-             <div>S</div>
+             <div className="BG bg-gray-300 round">S</div>
              <div>M</div>
              <div>L</div>
              <div>XL</div>
