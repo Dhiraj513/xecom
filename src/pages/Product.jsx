@@ -89,8 +89,8 @@ const Product = () => {
           <div className="font-bold text-lg mt-3">Select size</div>
 
           <div className="flex gap-x-2"></div>
-             <div className="bg-gray-200 hover:bg-gray-800 hover:text-white cursor-pointer rounded-md w-10 h-10 text-center flex justify-center items-center">S</div>
-             <div>M</div>
+             <div className="bg-gray-100 hover:bg-gray-800 hover:text-white cursor-pointer rounded-md w-10 h-10 text-center flex justify-center items-center">S</div>
+             <div className="bg-gray-100">M</div>
              <div>L</div>
              <div>XL</div>
         </div>
