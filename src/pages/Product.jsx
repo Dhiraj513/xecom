@@ -91,7 +91,7 @@ const Product = () => {
           <div className="flex gap-x-2"></div>
              <div className="bg-gray-100 hover:bg-gray-800 hover:text-white cursor-pointer rounded-md w-10 h-10 text-center flex justify-center items-center">S</div>
              <div className="bg-gray-100 hover:bg-gray-800 hover:text-white cursor-pointer rounded-md w-10 h-10 text-center flex justify-center items-center">M</div>
-             <div>L</div>
+             <div className="bg-gray-100 hover:bg-gray-800 hover:text-white cursor-pointer rounded-md w-10 h-10 text-center flex justify-center items-center ">L</div>
              <div>XL</div>
         </div>
        
