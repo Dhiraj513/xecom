@@ -95,7 +95,9 @@ const Product = () => {
              <div className="bg-gray-100 hover:bg-gray-800 hover:text-white cursor-pointer rounded-md w-10 h-10 text-center flex justify-center items-center">XL</div>
              </div>
 
-              <Link className="bg-green-400 px-5 py-2 ms-3 text-md rounded-md text-gray-800">Login</Link>
+              <Link className="bg-green-400 px-5 py-2 ms-3 text-md rounded-md text-gray-800">
+              Add to cart
+              </Link>
 
         </div>
        
