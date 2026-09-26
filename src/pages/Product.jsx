@@ -101,7 +101,7 @@ const Product = () => {
               </Link>
               </div>
 
-              <div className="">
+              <div className="flex flex-col">
 
               </div>
 
