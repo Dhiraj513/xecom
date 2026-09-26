@@ -103,6 +103,7 @@ const Product = () => {
 
               <div className="flex flex-col">
                 <p>Good shirt of men</p>
+                <p>100% cotton</p>
 
               </div>
 
