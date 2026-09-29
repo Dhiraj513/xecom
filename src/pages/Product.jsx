@@ -101,7 +101,7 @@ const Product = () => {
               </Link>
               </div>
 
-              <div className="flex flex-col">
+              <div className="flex flex-col text-gray-500">
                 <p>Good shirt of men</p>
                 <p>100% cotton</p>
                 <p>30 days moneyback gurantee</p>
