@@ -6,7 +6,7 @@ const Login = () => {
     <Layout>
       <div className='bg-gray-200 w-full flex justify-center items-center py-30'>
     {/* Login Form */}
-    <div className='max-w-md'>
+    <div className='max-w-md w-full rounded-md p-4 shadow-md bg-white'>
 
     </div>
 
