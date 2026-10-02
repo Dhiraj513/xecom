@@ -5,6 +5,10 @@ const Login = () => {
   return (
     <Layout>
       <div className='bg-gray-200 w-full flex justify-center items-center py-30'>
+    {/* Login Form */}
+    <div className='max-w-md'>
+
+    </div>
 
       </div>
     </Layout>
