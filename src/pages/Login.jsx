@@ -8,6 +8,13 @@ const Login = () => {
     {/* Login Form */}
     <div className='max-w-md w-full rounded-md p-4 shadow-md bg-white'>
       <h1 className='text-2xl text-gray-800 font-bold text-center'>Login</h1>
+      <form className='space-y-4'>
+        <div className='flex flex-col'>
+          <label htmlfor="" className='text-sm'></label>
+
+        </div>
+
+      </form>
 
     </div>
 
