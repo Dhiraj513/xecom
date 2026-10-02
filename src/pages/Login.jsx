@@ -10,7 +10,7 @@ const Login = () => {
       <h1 className='text-2xl text-gray-800 font-bold text-center'>Login</h1>
       <form className='space-y-4'>
         <div className='flex flex-col'>
-          <label htmlfor="" className='text-sm'></label>
+          <label htmlfor="" className='text-sm text-gray-800'>Email</label>
 
         </div>
 
