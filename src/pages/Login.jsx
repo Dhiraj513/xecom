@@ -5,7 +5,7 @@ import Layout from '../components/layouts/Layout'
 const Login = () => {
   return (
     <Layout>
-      <div className='bg-gray-200 w-full flex justify-center items-center py-30'>
+      <div className='bg-gray-200 lg:px-8 px-5 sm w-full flex justify-center items-center py-30 mb-10'>
     {/* Login Form */}
     <div className='max-w-md w-full rounded-md px-8 py-7 shadow-md bg-white'>
       <h1 className='text-2xl text-gray-800 font-bold text-center'>Login</h1>
@@ -29,6 +29,10 @@ const Login = () => {
       <Link className="bg-green-400 px-5 py-2 w-full text-center text-md rounded-md text-gray-800">
       Login
       </Link>
+      </div>
+      <div className='text-center text-sm text-gray-800 '>
+        Don't have an account? <Link className='hover:underline'>Register</Link>
+
       </div>
 
       </form>
