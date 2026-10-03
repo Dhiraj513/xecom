@@ -1,4 +1,5 @@
 
+import { Link } from 'react-router-dom'
 import Layout from '../components/layouts/Layout'
 
 const Login = () => {
@@ -24,6 +25,9 @@ const Login = () => {
           className='px-3 py-2 border border-gray-200 shadow rounded-md'
          />
         </div>
+      <Link className="bg-green-400 px-5 py-2 ms-3 text-md rounded-md text-gray-800">
+      Login
+      </Link>
 
       </form>
 
