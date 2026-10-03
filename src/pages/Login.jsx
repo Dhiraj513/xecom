@@ -7,7 +7,7 @@ const Login = () => {
     <Layout>
       <div className='bg-gray-200 w-full flex justify-center items-center py-30'>
     {/* Login Form */}
-    <div className='max-w-md w-full rounded-md px-8 py-4 shadow-md bg-white'>
+    <div className='max-w-md w-full rounded-md px-8 py-7 shadow-md bg-white'>
       <h1 className='text-2xl text-gray-800 font-bold text-center'>Login</h1>
       <form className='space-y-4'>
         <div className='flex flex-col space-y-2'>
@@ -25,9 +25,11 @@ const Login = () => {
           className='px-3 py-2 border border-gray-200 shadow rounded-md'
          />
         </div>
-      <Link className="bg-green-400 px-5 py-2 ms-3 text-md rounded-md text-gray-800">
+        <div className='flex flex-col space-y-2 pt-3'>
+      <Link className="bg-green-400 px-5 py-2 w-full text-center text-md rounded-md text-gray-800">
       Login
       </Link>
+      </div>
 
       </form>
 
