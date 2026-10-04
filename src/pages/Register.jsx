@@ -19,7 +19,7 @@ const Register = () => {
         </div>
 
          <div className='flex flex-col space-y-2'>
-          <label htmlfor="" className='text-sm text-gray-800'>Name</label>
+          <label htmlfor="" className='text-sm text-gray-800'>Email</label>
         <input type='text' 
         placeholder='Enter Email'
           className='px-3 py-2 border border-gray-200 shadow rounded-md'
