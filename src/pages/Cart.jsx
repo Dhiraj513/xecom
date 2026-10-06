@@ -11,7 +11,7 @@ const Cart = () => {
       <div className="flex gap-x-1 items-center text-sm">
         <Link>Home</Link>
         <MdOutlineKeyboardArrowRight />
-        <Link className="font-bold">Shop</Link>
+        <Link className="font-bold">Cart</Link>
       </div>
     </div>
     </Layout>
