@@ -14,6 +14,12 @@ const Cart = () => {
         <Link className="font-bold">Cart</Link>
       </div>
     </div>
+    {/*Title */}
+     <div className="max-w-360 lg:px-8 px-5 mx-auto">
+      <div className="flex text-4xl text-green-400">
+        Shop
+      </div>
+    </div>
     </Layout>
   )
 }
