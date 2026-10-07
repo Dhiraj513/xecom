@@ -21,7 +21,9 @@ const Cart = () => {
       </div>
     </div>
      <div className="max-w-360 lg:px-8 px-5 mx-auto">
-      
+      <div>
+        
+      </div>
      </div>
     </Layout>
   )
