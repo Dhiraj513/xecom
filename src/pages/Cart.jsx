@@ -21,7 +21,7 @@ const Cart = () => {
       </div>
     </div>
      <div className="max-w-360 lg:px-8 px-5 mx-auto">
-      <div className="">
+      <div className="grid grid-cols-12">
 
       </div>
      </div>
