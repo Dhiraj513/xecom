@@ -22,7 +22,12 @@ const Cart = () => {
     </div>
      <div className="max-w-360 lg:px-8 px-5 mx-auto">
       <div className="grid grid-cols-12 text-gray-800">
-      mindfulness
+      <div>
+
+      </div>
+      <div>
+        
+      </div>
       </div>
      </div>
     </Layout>
