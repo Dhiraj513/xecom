@@ -25,7 +25,7 @@ const Cart = () => {
       <div className="col col-span-9">
 
       </div>
-      <div>
+      <div className="col col-span-3">
 
       </div>
       </div>
