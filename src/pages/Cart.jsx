@@ -26,6 +26,11 @@ const Cart = () => {
       {/*Cart Items*/}
       <table className="e-full">
         <thread className="bg-gray-200">
+          <tr>
+            <th>Product</th>
+            <th>Qty</th>
+            <yh>Total</yh>
+          </tr>
 
         </thread>
 
