@@ -25,9 +25,9 @@ const Cart = () => {
       <div className="col-span-9 ">
       {/*Cart Items*/}
       <table className="w-full">
-        <thead className="bg-gray-100">
+        <thead className="bg-gray-50">
           <tr>
-            <th className="px-3 py-2">Product</th>
+            <th className="px-3 py-2 text-left">Product</th>
             <th className="px-3 py-2">Qty</th>
             <th className="px-3 py-2">Total</th>
           </tr>
