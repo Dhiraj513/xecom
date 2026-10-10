@@ -25,11 +25,11 @@ const Cart = () => {
       <div className="col-span-9 border">
       {/*Cart Items*/}
       <table className="e-full">
-        <thread className="bg-gray-200">
+        <thread className="bg-gray-100">
           <tr>
-            <th>Product</th>
-            <th>Qty</th>
-            <yh>Total</yh>
+            <th className="px-3 py-2">Product</th>
+            <th className="px-3 py-2">Qty</th>
+            <th className="px-3 py-2">Total</th>
           </tr>
 
         </thread>
