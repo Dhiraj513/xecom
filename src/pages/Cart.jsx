@@ -21,9 +21,15 @@ const Cart = () => {
       </div>
     </div>
      <div className="max-w-360 lg:px-8 px-5 mx-auto">
-      <div className="grid grid-cols-12 text-gray-800">
+      <div className="grid grid-cols-12 text-gray-800 gap-5">
       <div className="col-span-9 border">
-rueerty
+      {/*Cart Items*/}
+      <table className="e-full">
+        <thread className="bg-gray-200">
+
+        </thread>
+
+      </table>
       </div>
       <div className="col-span-3 border">
 ,sreb
