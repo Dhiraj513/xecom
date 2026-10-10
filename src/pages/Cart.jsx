@@ -22,21 +22,21 @@ const Cart = () => {
     </div>
      <div className="max-w-360 lg:px-8 px-5 mx-auto">
       <div className="grid grid-cols-12 text-gray-800 gap-5">
-      <div className="col-span-9 border">
+      <div className="col-span-9 ">
       {/*Cart Items*/}
-      <table className="e-full">
-        <thread className="bg-gray-100">
+      <table className="w-full">
+        <thead className="bg-gray-100">
           <tr>
             <th className="px-3 py-2">Product</th>
             <th className="px-3 py-2">Qty</th>
             <th className="px-3 py-2">Total</th>
           </tr>
 
-        </thread>
+        </thead>
 
       </table>
       </div>
-      <div className="col-span-3 border">
+      <div className="col-span-3 ">
 ,sreb
       </div>
       </div>
