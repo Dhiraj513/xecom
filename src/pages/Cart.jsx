@@ -34,8 +34,8 @@ const Cart = () => {
         </thead>
         <tbody className="bg-gray-50">
           <tr>
-            <td className="px-3 py-2 text-left">Product</td>
-            <td className="px-3 py-2 text-cxenter">Qty</td>
+            <td className="px-3 py-2 text-left"></td>
+            <td className="px-3 py-2 text-cxenter">1</td>
             <td className="px-3 py-2 text center">Total</td>
           </tr>
         </tbody>
