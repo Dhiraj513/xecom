@@ -28,15 +28,15 @@ const Cart = () => {
         <thead className="bg-gray-50">
           <tr>
             <th className="px-3 py-2 text-left">Product</th>
-            <th className="px-3 py-2 text-cxenter">Qty</th>
-            <th className="px-3 py-2 text center">Total</th>
+            <th className="px-3 py-2 text-center">Qty</th>
+            <th className="px-3 py-2 text-center">Total</th>
           </tr>
         </thead>
         <tbody className="bg-gray-50">
           <tr>
             <td className="px-3 py-2 text-left"></td>
-            <td className="px-3 py-2 text-cxenter">1</td>
-            <td className="px-3 py-2 text center">Total</td>
+            <td className="px-3 py-2 text-center">1</td>
+            <td className="px-3 py-2 text-center">Total</td>
           </tr>
         </tbody>
 
