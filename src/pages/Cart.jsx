@@ -1,7 +1,7 @@
 import { Link } from "react-router-dom"
 import Layout from "../components/layouts/Layout"
 import { MdOutlineKeyboardArrowRight } from "react-icons/md"
-import ProductImg from "../assets/product1.png;"
+import ProductImg from "../assets/product1.png";
 
 const Cart = () => {
   return (
@@ -36,7 +36,7 @@ const Cart = () => {
           <tr>
             <td className="px-3 py-2 text-left">
               <div>
-                <img src={ProductImg} />
+                <img src={ProductImg} className="w-16" />
               </div>
             </td>
             <td className="px-3 py-2 text-center">1</td>
