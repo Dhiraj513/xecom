@@ -34,7 +34,11 @@ const Cart = () => {
         </thead>
         <tbody className="bg-gray-50">
           <tr>
-            <td className="px-3 py-2 text-left"></td>
+            <td className="px-3 py-2 text-left">
+              <div>
+                <img src={ProductImg} />
+              </div>
+            </td>
             <td className="px-3 py-2 text-center">1</td>
             <td className="px-3 py-2 text-center">Total</td>
           </tr>
