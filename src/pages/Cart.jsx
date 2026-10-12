@@ -1,7 +1,7 @@
 import { Link } from "react-router-dom"
 import Layout from "../components/layouts/Layout"
 import { MdOutlineKeyboardArrowRight } from "react-icons/md"
-
+import ProductImg from "../assets/product1.png;"
 
 const Cart = () => {
   return (
