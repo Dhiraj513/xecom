@@ -35,7 +35,7 @@ const Cart = () => {
         <tbody className="bg-gray-50">
           <tr>
             <td className="px-3 py-2 text-left">
-              <div>
+              <div className="flex gap-4">
                 <img src={ProductImg} className="w-16" />
               </div>
             </td>
