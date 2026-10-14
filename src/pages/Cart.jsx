@@ -39,7 +39,9 @@ const Cart = () => {
                 <div className="bg-slate-50 p-2 rounded-md">
                 <img src={ProductImg} className="w-16" />
               </div>
-              <div></div>
+              <div className="grid grid-col">
+
+              </div>
               </div>
             </td>
             <td className="px-3 py-2 text-center">1</td>
