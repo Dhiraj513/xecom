@@ -40,7 +40,8 @@ const Cart = () => {
                 <img src={ProductImg} className="w-16" />
               </div>
               <div className="grid grid-col ">
-                <h2 className="text-gray-800">Nice jacket for woman</h2>
+                <h2 className="text-gray-800 font-semibold">Nice jacket for woman</h2>
+                <div>$100</div>
 
               </div>
               </div>
