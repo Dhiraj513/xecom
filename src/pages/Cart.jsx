@@ -39,9 +39,9 @@ const Cart = () => {
                 <div className="bg-slate-50 p-2 rounded-md">
                 <img src={ProductImg} className="w-16" />
               </div>
-              <div className="grid grid-col ">
+              <div className="flex flex-col ">
                 <h2 className="text-gray-800 font-semibold">Nice jacket for woman</h2>
-                <div className="text-gray-800 font-semibold">$100</div>
+                <div className="text-gray-500 font-semibold">$100</div>
 
               </div>
               </div>
