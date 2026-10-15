@@ -41,7 +41,7 @@ const Cart = () => {
               </div>
               <div className="grid grid-col ">
                 <h2 className="text-gray-800 font-semibold">Nice jacket for woman</h2>
-                <div>$100</div>
+                <div className="text-gray-800 font-semibold">$100</div>
 
               </div>
               </div>
