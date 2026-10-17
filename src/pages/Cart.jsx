@@ -41,8 +41,8 @@ const Cart = () => {
               </div>
               <div className="flex flex-col ">
                 <h2 className="text-gray-800 font-semibold">Nice jacket for woman</h2>
-                <div className="text-gray-500 font-semibold">
-                  <div>$100</div>
+                <div className="flex gap-3">
+                  <div className="text-gray-500 font-semibold">$100</div>
                   </div>
 
               </div>
