@@ -53,7 +53,11 @@ const Cart = () => {
               </div>
               </div>
             </td>
-            <td className="px-3 py-2 text-center">1</td>
+            <td className="px-3 py-2 text-center">
+              <div className="flex w-25">
+
+              </div>
+            </td>
             <td className="px-3 py-2 text-center">Total</td>
           </tr>
         </tbody>
