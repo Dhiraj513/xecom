@@ -46,6 +46,8 @@ const Cart = () => {
                   <div className="bg-gray-300 flex justify-center items-center px-2 rounded-md">
                     XL
                   </div>
+                  <Link className="text-red-400 text-sm">
+                  </Link>
                   </div>
 
               </div>
