@@ -46,10 +46,10 @@ const Cart = () => {
                   <div className="bg-gray-300 flex justify-center items-center px-2 rounded-md">
                     XL
                   </div>
-                  <Link className="text-red-400 text-sm">
-                  </Link>
                   </div>
-
+                  <Link className="text-red-400 text-sm pt-3">
+                  Remove
+                  </Link>
               </div>
               </div>
             </td>
