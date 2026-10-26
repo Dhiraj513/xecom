@@ -54,7 +54,7 @@ const Cart = () => {
               </div>
             </td>
             <td className="px-3 py-2 text-center">
-              <div className="flex rounded-md w-25 items-center justify-center px-2 py-1 border border-gray-200">
+              <div className="flex rounded-m mx-auto w-25 items-center justify-center px-2 py-2 border border-gray-200">
               <div className="w-5">-</div>
               <div className="w-10">1</div>
               <div className="w-5">+</div>
