@@ -60,7 +60,7 @@ const Cart = () => {
               <div className="w-5">+</div>
               </div>
             </td>
-            <td className="px-3 py-2 text-center">Tol</td>
+            <td className="px-3 py-2 text-center align-top">Tol</td>
           </tr>
         </tbody>
 
