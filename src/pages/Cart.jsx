@@ -67,7 +67,9 @@ const Cart = () => {
       </table>
       </div>
       <div className="col-span-3 ">
-,sreb
+<div>
+  
+</div>
       </div>
       </div>
      </div>
