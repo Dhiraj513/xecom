@@ -67,8 +67,8 @@ const Cart = () => {
       </table>
       </div>
       <div className="col-span-3 ">
-<div className="bg-gray-200">
-
+<div className="bg-gray-200 p-4">
+<h2>Summary</h2>
 </div>
       </div>
       </div>
