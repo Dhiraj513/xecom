@@ -68,7 +68,7 @@ const Cart = () => {
       </div>
       <div className="col-span-3 ">
 <div className="bg-gray-200 p-4">
-<h2 className="font-semibold">Summary</h2>
+<h2 className="font-semibold text-gray">Summary</h2>
 </div>
       </div>
       </div>
